@@ -1,0 +1,116 @@
+
+body
+{
+	background-color: #fff;
+}
+
+.admin_div
+{
+	border: 1px solid gray;
+	padding: 100px;
+	margin-top: 100px;
+	border-radius: 10px;
+	background-color: #8080801f;
+}
+
+.user_div
+{
+	border: 1px solid gray;
+	padding: 100px;
+	margin-top: 100px;
+	border-radius: 10px;
+	background-color: #8080801f;
+
+}
+
+.logo_img
+{
+	height: 80px;
+	width: auto;
+}
+
+.adminlogin_btn
+{
+	background-color: #00adef;
+	height: 40px;
+	width:120px;
+}
+
+
+.userlogin_btn
+{
+	background-color: #00adef;
+	height: 40px;
+	width:120px;
+}
+
+.gap
+{
+	padding: 50px;
+}
+
+.form-group
+{
+	padding: 24px;
+}
+
+.side_men
+{
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid gray;
+	border-radius: 10px;
+
+}
+
+.main_admindiv
+{
+	margin-top: 100px;
+	border: 1px solid gray;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+ul li
+{
+	list-style: none;
+	padding: 25px 0px 25px 0px;
+	background-color: #00adef;
+	margin-top: 6px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 24px;
+	color: #fff;
+}
+
+ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
